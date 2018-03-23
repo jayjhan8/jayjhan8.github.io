@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blue jay</title>
+    <title>Blue Jay</title>
     <link>https://jayjhan8.github.io/</link>
-    <description>Recent content on blue jay</description>
+    <description>Recent content on Blue Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 14:19:45 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Mar 2018 14:19:45 -0700</lastBuildDate>
     
         <atom:link href="https://jayjhan8.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>First Post</title>
+      <title>First Post!</title>
       <link>https://jayjhan8.github.io/first-post/</link>
-      <pubDate>Mon, 19 Mar 2018 14:19:45 -0700</pubDate>
+      <pubDate>Thu, 22 Mar 2018 14:19:45 -0700</pubDate>
       
       <guid>https://jayjhan8.github.io/first-post/</guid>
-      <description>yes my first post Am i supposed to do something here?</description>
+      <description>Welcome everyone. Thanks for stopping by my blog. This is very new to me, so I&amp;rsquo;m not quite sure what to write now. I decided to try something new given the recent turn of events in my life. As many of you know, I was recently diagnosed with stage 3 testicular cancer. Before you get so wrapped up about the word &amp;ldquo;cancer,&amp;rdquo; let me tell you how it all happened.</description>
     </item>
+    
+    
     
     
   </channel>

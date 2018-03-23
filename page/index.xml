@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Blue Jay</title>
+    <link>https://jayjhan8.github.io/page/</link>
+    <description>Recent content in Pages on Blue Jay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Mar 2018 17:13:19 -0700</lastBuildDate>
+    
+	<atom:link href="https://jayjhan8.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://jayjhan8.github.io/about/</link>
+      <pubDate>Wed, 21 Mar 2018 17:13:19 -0700</pubDate>
+      
+      <guid>https://jayjhan8.github.io/about/</guid>
+      <description>Hi! My name is Jay. I make a living as a programmer, but I&amp;rsquo;m now seriously considering doing music after all of the weird turn of events in my life. I&amp;rsquo;ve never written a blog before, so bare with me as I share with you the journey I have in battling this thing called cancer. It&amp;rsquo;s not the greatest, but it&amp;rsquo;s not the worst. I&amp;rsquo;m fearfully made by God, and I really hope that my story encourages your faith in Christ Jesus.</description>
+    </item>
+    
+  </channel>
+</rss>

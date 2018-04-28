@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Blue Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Apr 2018 20:43:14 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 22:52:20 -0700</lastBuildDate>
     
 	<atom:link href="https://jayjhan8.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Did you notice?</title>
+      <link>https://jayjhan8.github.io/did-you-notice/</link>
+      <pubDate>Fri, 27 Apr 2018 22:52:20 -0700</pubDate>
+      
+      <guid>https://jayjhan8.github.io/did-you-notice/</guid>
+      <description>You may notice that the blog looks slightly different, if you haven&amp;rsquo;t, scroll down. You can now comment on each of my post. I have gotten many requests to get this comment feature implemented, so I hope it works as intended. When I was talking to Sammy earlier, I realized that the audience of my blog has grown pretty quickly. I realize that the point of this blog is for me to tell my story to you, but I figured it&amp;rsquo;d be nice to hear from you and be more engaging than just my words on the screen.</description>
+    </item>
     
     <item>
       <title>Week 2</title>

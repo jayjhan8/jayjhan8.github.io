@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Blue Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Apr 2018 19:09:09 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 12:49:57 -0700</lastBuildDate>
     
 	<atom:link href="https://jayjhan8.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sun</title>
+      <link>https://jayjhan8.github.io/sun/</link>
+      <pubDate>Wed, 02 May 2018 12:49:57 -0700</pubDate>
+      
+      <guid>https://jayjhan8.github.io/sun/</guid>
+      <description>Seattle is one of the most beautiful places to live in. It took me a while to get used to the winter drag, but I&amp;rsquo;ve adapted and learned to appreciate the summer. The sun&amp;rsquo;s out today, birds are chirping, and the bees are zapping away &amp;ndash; summer&amp;rsquo;s just around the corner. On my rooftop, I can look far out into the horizon to the South, where there are so many trees and other plants interspersed around buildings.</description>
+    </item>
     
     <item>
       <title>Quick update</title>
@@ -94,15 +103,6 @@ Old English frēond, of Germanic origin; related to Dutch vriend and German Freu
       
       <guid>https://jayjhan8.github.io/vip/</guid>
       <description>Tomorrow is the day! I will get admitted around 11AM and I imagine the nurses will work their magic in hooking me up to all the drugs that I need ;). The names of these drugs form my chemotherapy regimen called VIP. I knew I was special, just thought I&amp;rsquo;d never hear it from a doctor. Nurses have informed me of my potential side effects and what to expect for my treatment.</description>
-    </item>
-    
-    <item>
-      <title>First Post!</title>
-      <link>https://jayjhan8.github.io/first-post/</link>
-      <pubDate>Thu, 22 Mar 2018 14:19:45 -0700</pubDate>
-      
-      <guid>https://jayjhan8.github.io/first-post/</guid>
-      <description>Welcome everyone. Thanks for stopping by my blog. This is very new to me, so I&amp;rsquo;m not quite sure what to write now. I decided to try something new given the recent turn of events in my life. As many of you know, I was recently diagnosed with stage 3 testicular cancer. Before you get so wrapped up about the word &amp;ldquo;cancer,&amp;rdquo; let me tell you how it all happened.</description>
     </item>
     
   </channel>
